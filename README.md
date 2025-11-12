@@ -35,8 +35,8 @@ Evaluation: Test the model on unseen data and visualize original, noisy, and den
 Result Analysis: The autoencoder effectively reduces noise and reconstructs clean digit images.
 
 ## PROGRAM
-### Name:Mohanram Gunasekar
-### Register Number: 212223240095
+### Name: BALASUBRAMANIAM L
+### Register Number: 212224240020
 ```py
 class DenoisingAutoencoder(nn.Module):
     def __init__(self):
